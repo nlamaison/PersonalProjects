@@ -6,8 +6,8 @@ This repo contains side projects I've worked on out of pure interest :)
 
 The goal of `Simple Planner` is to compare traditional sampling-based motion planning algorithms to a simple learned model in a 2D, fixed world state simulation environment. 
 
-This project will (soon, hopefully, someday) implement _all_ of: 
-- stochastic, sampling-based path finding algorithms
+This project will (soon, hopefully) implement _all_ of: 
+- the RRT and PRM stochastic, sampling-based path finding algorithms
 - classic graph search algorithms
 - a machine-learned step-wise action path finding model
 - an interactive tool for demonstrating step-wise actions towards a goal configuration, to be used as data for model training
