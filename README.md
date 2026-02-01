@@ -3,7 +3,8 @@ This repo contains side projects I've worked on out of pure interest :)
 
 ## Simple Planner
 **WIP**
-The goal of `Simple Planner` is to compare traditional sampling-based motion planning algorithms to a relatively simple learned model in a 2D, fixed world state simulation environment. 
+
+The goal of `Simple Planner` is to compare traditional sampling-based motion planning algorithms to a simple learned model in a 2D, fixed world state simulation environment. 
 
 This project will (soon, hopefully, someday) implement _all_ of: 
 - stochastic, sampling-based path finding algorithms
